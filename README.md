@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhaiyyu
+- 👋 Hi, I’m Varun
 - 👀 I’m interested in using AI for Pensions, Endowments and Foundations
 - 🌱 I’m currently learning Claude API, LlamaIndex API 
 - 💞️ I’m looking to collaborate on using AI in Alternative Investments
